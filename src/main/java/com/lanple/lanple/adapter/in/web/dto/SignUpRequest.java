@@ -1,4 +1,4 @@
-package com.lanple.lanple.presenter.rest.api.entities;
+package com.lanple.lanple.adapter.in.web.dto;
 
 import lombok.Value;
 
